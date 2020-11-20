@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: NavajoWhite;
+    font-family: Sansita Swashed;
+    font-size: 28px;
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+nav ul {
+    background-color: mediumpurple;
+    border-style: solid;
+    border-color: darkviolet;
+    padding: 10px;
+    font-family: Secular One, sans-serif;
+    font-size: 16px;
+    text-align: right;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 2px;
+    color: PapayaWhip;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+img {
+    border-radius: 8px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: Sansita Swashed;
+    color: purple;
+    font-size: 50;
+    text-align: center;
+    border-color: violet;
+}
+
+h2 {
+    font-family: Sansita Swashed, sans-serif;
+    color: purple;
+}
